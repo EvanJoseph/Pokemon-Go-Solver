@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\neo\documents\visual studio 2015\projects\cis350program1submission\cis350program1submission\source.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\neo\documents\visual studio 2015\projects\cis350program1submission\cis350program1submission\source.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\neo\documents\visual studio 2015\projects\cis350program1submission\cis350program1submission\source.cpp(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\neo\documents\visual studio 2015\projects\cis350program1submission\cis350program1submission\source.cpp(98): warning C4018: '<': signed/unsigned mismatch
+c:\users\neo\documents\visual studio 2015\projects\cis350program1submission\cis350program1submission\source.cpp(115): warning C4018: '<': signed/unsigned mismatch
+c:\users\neo\documents\visual studio 2015\projects\cis350program1submission\cis350program1submission\source.cpp(124): warning C4018: '<': signed/unsigned mismatch
+  CIS350Program1submission.vcxproj -> C:\Users\Neo\Documents\Visual Studio 2015\Projects\CIS350Program1submission\Debug\CIS350Program1submission.exe
